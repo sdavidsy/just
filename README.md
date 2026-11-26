@@ -7,3 +7,5 @@
 - GitHub 저장소 만들기
 - ChatGPT와 GitHub 연결하기
 - AI로 저장소 내용 분석하기
+
+이상엽 멋있다
